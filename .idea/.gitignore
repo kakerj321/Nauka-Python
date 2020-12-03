@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\kaker\PycharmProjects\Nauka-Python1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/Nauka-Python1.iml
+/inspectionProfiles/profiles_settings.xml
+/vcs.xml
+/misc.xml
+/modules.xml
